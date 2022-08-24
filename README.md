@@ -8,3 +8,4 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 6. Estructura base de la sección de intercambio
 7. Imagen de background
 8. Estilos base de tabla de monedas
+9. Detallando estilos de tabla de monedas
