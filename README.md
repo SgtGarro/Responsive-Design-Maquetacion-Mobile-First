@@ -7,3 +7,4 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 5. Uso de position para botón flotante
 6. Estructura base de la sección de intercambio
 7. Imagen de background
+8. Estilos base de tabla de monedas
