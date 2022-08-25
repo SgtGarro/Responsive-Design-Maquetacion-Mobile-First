@@ -16,3 +16,4 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 14. Maquetando sección comodín
 15. Estructura de sección de planes
 16. Aplicando estilos a sección de planes
+17. Aplicando estilos a las tarjetas de la sección de planes
