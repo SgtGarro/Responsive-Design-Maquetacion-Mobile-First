@@ -15,3 +15,4 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 13. Maquetando tarjetas de beneficios
 14. Maquetando sección comodín
 15. Estructura de sección de planes
+16. Aplicando estilos a sección de planes

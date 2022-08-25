@@ -357,3 +357,32 @@ main {
     color: var(--just-white);
     text-align: center;
 }
+
+.main-plans-container {
+    width: 100%;
+    min-width: 320px;
+    padding: 64px 0;
+}
+
+.main-plans-container .plans--title {
+    width: 90%;
+    min-width: 288px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+.main-plans-container .plans--title h2 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 2.6rem;
+    color: var(--warm-black);
+    margin-bottom: 24px;
+}
+
+.main-plans-container .plans--title p {
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+    color: #757575;
+    margin-bottom: 34px;
+}
