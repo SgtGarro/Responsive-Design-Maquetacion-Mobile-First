@@ -279,3 +279,62 @@ main {
     line-height: 1.8rem;
     color: #808080;
 }
+
+.product-detail--card {
+    width: 90%;
+    min-width: 288px;
+    max-width: 400px;
+    height: 150px;
+    margin: 15px auto;
+    padding: 15px;
+    background-color: var(--black);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+}
+
+.product-detail--card span {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    margin-bottom: 10px;
+}
+
+.product-detail--card .clock {
+    background-image: url(../assets/icons/clock.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.product-detail--card .eye {
+    background-image: url(../assets/icons/eye.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.product-detail--card .dollar {
+    background-image: url(../assets/icons/dollar-sign.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.product-detail--card .check {
+    background-image: url(../assets/icons/check-circle.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.product-detail--card .product--card-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.8rem;
+    color: var(--just-white);
+    margin-bottom: 10px;
+}
+
+.product-detail--card .product--card-body {
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+    color: #808080;
+}
