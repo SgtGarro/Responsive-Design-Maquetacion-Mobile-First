@@ -22,3 +22,4 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 20. Scroll horizontal con CSS
 21. Footer
 22. Aplicando media queries
+23. Análisis con Lighthouse
