@@ -20,4 +20,5 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 18. Detallando estilos en tarjetas de planes
 19. Aplicando estilos al botón de call to action
 20. Scroll horizontal con CSS
-21. footer .footer-left ul li
+21. Footer
+22. Aplicando media queries
