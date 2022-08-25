@@ -23,3 +23,5 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 21. Footer
 22. Aplicando media queries
 23. Análisis con Lighthouse
+
+# Fin del proyecto de maquetación mobile first
