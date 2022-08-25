@@ -19,3 +19,4 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 17. Aplicando estilos a las tarjetas de la sección de planes
 18. Detallando estilos en tarjetas de planes
 19. Aplicando estilos al botón de call to action
+20. Scroll horizontal con CSS

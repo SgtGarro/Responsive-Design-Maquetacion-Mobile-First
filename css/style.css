@@ -387,8 +387,18 @@ main {
     margin-bottom: 34px;
 }
 
+.plans-container--slider {
+    display: flex;
+    height: 316px;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    column-gap: 20px;
+}
+
 .plans-container--card {
     position: relative;
+    scroll-snap-align: center;
     width: 70%;
     min-width: 190px;
     max-width: 300px;
