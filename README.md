@@ -11,3 +11,4 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 9. Detallando estilos de tabla de monedas
 10. Finalizando estilos de tabla de monedas
 11. Estructura base de la sección de beneficios
+12. Estilos de la sección de beneficios
