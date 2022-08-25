@@ -13,3 +13,4 @@ PROYECTO DE TRABAJO PARA MAQUETACION MOBILE FIRST
 11. Estructura base de la sección de beneficios
 12. Estilos de la sección de beneficios
 13. Maquetando tarjetas de beneficios
+14. Maquetando sección comodín
